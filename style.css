@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@200&display=swap');
+
+
+body{
+    background-image: url("https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg");
+    background-size: 100%;
+    padding: 0;
+    margin: 0;
+
+}
+
+h1{
+    text-align: center;
+    font-family: "MuseoModerno", sans-serif;
+
+}
+
+h3{
+    text-align: center;
+    font-family: "MuseoModerno", sans-serif;
+
+}
+section{
+    background-color: #95a2ad;
+    width: 500px;
+    margin: 160px auto;
+    border-radius: 3px;
+    border: 5px solid white;
+
+}
+
+article div{
+    padding-bottom: 20px;
+
+
+}
+
+article label{
+    margin-left: 40px;
+    color:black;
+}
+
+article input{
+    width: 85%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 40px;
+    box-sizing: none;
+    background: rgb(223, 219, 219);
+    font-size: medium;
+    border-bottom: 1px solid black;
+
+
+
+
+}
